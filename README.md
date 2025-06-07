@@ -1,16 +1,16 @@
 # Hi there, I'm Roshan Polai 👋
 
-🎓 Electronics & Communication Engineering student at **Silicon University**, Bhubaneswar  
-📍 From Odisha, India  
+🎓 Electronics & Communication Engineering student at **Silicon University**
+📍 Bhubaneswar, India  
 📧 roshanpolai3@gmail.com  
 
 ---
 
 ## 🚀 Tech Stack
-- 🌐 C | C++ | Python
+- 🌐 C | C++ | Java | Python 
 - 🔧 Data Structures & Algorithms
 - 📱 HTML | CSS | JavaScript (Basics)
-- 🛠️ Git | GitHub | Linux
+- 🛠️ Git | GitHub
 
 ---
 

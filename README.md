@@ -1,6 +1,4 @@
-# Hi there, I'm Roshan Polai 👋
-
-🎓 Electronics & Communication Engineering student at **Silicon University**
+# Hi there, I'm Roshan Polai 
 📍 Bhubaneswar, India  
 📧 roshanpolai3@gmail.com  
 

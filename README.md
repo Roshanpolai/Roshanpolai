@@ -29,12 +29,13 @@
 </p>
 
 ---
+---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshanpolai&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshanpolai&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshanpolai&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshanpolai&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
@@ -42,29 +43,30 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshanpolai&theme=gruvbox&row=1&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Roshanpolai&theme=gruvbox&no-bg=true&row=1&margin-w=15" />
 </p>
 
 ---
 
-### 💻 Coding Profiles
+### 🌐 Connect With Me
 
-- 🔗 [LeetCode](https://leetcode.com/u/Roshan98/)
-- 🔗 [CodeChef](https://www.codechef.com/users/roshan_2000)
-- 🔗 [GitHub](https://github.com/Roshanpolai)
-
----
-
-### 📫 Contact Me
-
-- 📍 Bhubaneswar, India  
-- 📧 Email: roshanpolai3@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/roshan-polai)
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-polai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Roshanpolai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Roshan98/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/roshan_2000" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23005555.svg?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Roshanpolai&label=Profile%20views&color=0e75b6&style=flat" alt="Roshanpolai" />
+  <img src="https://komarev.com/ghpvc/?username=Roshanpolai&label=Profile%20Views&color=brightgreen&style=flat" alt="Roshanpolai" />
 </p>
-
-

@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Roshan Polai</h1>
 
-<h3 align="center">A passionate Full stack web developer from India. </h3>
+<h3 align="center">A Full stack web developer from India. </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -12,7 +12,7 @@
 
 ### 🙋‍♂️ About Me
 - 👩‍🎓 I'm a prefinalist at **Silicon Univeristy, Bhubaneswar**
-- 🌱 I’m currently exploring **Machine learning**
+- 🌱 I’m currently exploring **Backend Technology's**
 
 <!-- - 👨‍💻 Know me more <a href="" style="text-decoration: none;">Portfolio</a> // -->
 
@@ -58,6 +58,5 @@
 <h4> 📬 Reach me out </h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/roshan-polai/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://leetcode.com/u/Roshan98/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
-<a href="https://www.codechef.com/users/roshan_2000"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" height="50rem" width="50rem"/></a>
+</a>
 </p>
